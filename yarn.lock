@@ -17,7 +17,7 @@
     node-fetch "^2.6.7"
     web-streams-polyfill "^3.2.1"
 
-"@langchain/community@~0.0.47":
+"@langchain/community@^0.0.52", "@langchain/community@~0.0.47":
   version "0.0.52"
   resolved "https://registry.yarnpkg.com/@langchain/community/-/community-0.0.52.tgz#bbd0783562f5da764bba835355f9cbd9393074e7"
   integrity sha512-L+IMAAaLNP7++4HhdvuVJegc8bdw8WP77Jvp98YcySFZTZWH1yasSQSlFn3jgBk+3xLBsudpTZuttKTrZ/TtVQ==
