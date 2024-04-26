@@ -5,7 +5,7 @@ import { OpenAI } from "@langchain/openai";
 import { PromptTemplate } from "@langchain/core/prompts";
 import { LLMChain } from "langchain/chains";
 
-const model = new OpenAI({apiKey: process.env.API_KEY, temperature: 0.7});
+const model = new OpenAI({apiKey: process.env.API_KEY, temperature: 0});
 
 const template = `
     be funny while answering questions\n
