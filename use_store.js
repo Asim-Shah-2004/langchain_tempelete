@@ -18,6 +18,6 @@ const chain = new RetrievalQAChain({
 });
 
 const res = await chain.call({
-  query: "When does the restaurant open on friday?",
+  query: "explain tcp segment structure",
 });
 console.log(res.text);
